@@ -1,8 +1,8 @@
 # Aleph
 
-**An ARPIS-class cognitive framework for autonomous, multi-agent software engineering and cybersecurity systems.**
+**An ARPIS-class cognitive framework for autonomous multi-agent software engineering and cybersecurity systems.**
 
-Aleph is a recursively self-improving, polyagentic intelligence framework designed for enterprise-grade software development, adaptive cybersecurity operations, distributed reasoning, and real-time inter-agent orchestration.
+Aleph is a recursively self-improving, polyagentic intelligence framework designed for enterprise-grade software engineering, adaptive cybersecurity operations, distributed reasoning, and real-time inter-agent orchestration.
 
 ---
 
@@ -21,7 +21,7 @@ Aleph is a recursively self-improving, polyagentic intelligence framework design
 
 Aleph is a modular AI framework that enables the integration of multiple large language model providers and APIs into a unified agentic system.
 
-It allows users to connect and orchestrate different models depending on task requirements, provider preference, and operational constraints.
+It allows users to connect and orchestrate different models based on task requirements, provider capabilities, and operational constraints.
 
 ---
 
@@ -37,7 +37,7 @@ Aleph is compatible with a wide range of model APIs, including:
 - NVIDIA NIM
 - Custom OpenAI-compatible endpoints
 
-> Note: OpenRouter is currently not supported by design.
+> Note: OpenRouter is not supported by design.
 
 ---
 
@@ -46,12 +46,12 @@ Aleph is compatible with a wide range of model APIs, including:
 ### Multi-Agent Architecture
 Aleph operates as a distributed system of specialized agents that communicate in real time, including:
 
-- Coding Agents
-- Security / Red Team Agents
-- Architecture Agents
-- Analysis Agents
-- Memory & Context Agents
-- Execution & Tooling Agents
+- Coding agents
+- Security / Red Team agents
+- Architecture agents
+- Analysis agents
+- Memory & context agents
+- Execution & tooling agents
 
 Agents collaborate dynamically to solve complex tasks without linear prompt chaining.
 
@@ -80,16 +80,16 @@ Aleph is optimized for:
 
 ## Cybersecurity Use Cases
 
-Aleph is designed with strong emphasis on security research and defense systems.
+Aleph is designed with a strong focus on security research and defensive systems.
 
 ### Red Teaming
-Recommended models are typically high-performance, uncensored or frontier-capable systems capable of advanced reasoning and code generation.
+Recommended models are typically high-performance, frontier-capable systems capable of advanced reasoning and code generation.
 
 Examples include:
-- DeepSeek (latest V-series variants)
-- Frontier-class reasoning models
+- DeepSeek V-series models
+- Frontier reasoning models
 
-> Note: High variance in hallucination rates may occur depending on model selection.
+> Note: Higher variance in hallucination rates may occur depending on model selection.
 
 ---
 
@@ -107,7 +107,7 @@ Most modern models perform reliably for defensive and analytical tasks, includin
 
 Aleph is optimized for general-purpose engineering workflows.
 
-Recommended models for best performance:
+Recommended models for best results:
 
 - GPT-class frontier models
 - Claude Opus / Sonnet-tier models
@@ -119,10 +119,10 @@ Recommended models for best performance:
 
 ## System Design Philosophy
 
-Aleph can be conceptualized as a hybrid between:
+Aleph can be understood as a hybrid between:
 
 - a modern IDE (e.g. VS Code)
-- an agentic coding environment (e.g. autonomous coding systems)
+- an agentic coding environment (e.g. autonomous AI coding systems)
 - a multi-agent orchestration layer
 - and a lightweight cognitive operating system
 
@@ -130,7 +130,7 @@ It extends beyond traditional IDE paradigms by enabling:
 
 - real-time agent communication
 - autonomous task decomposition
-- self-iterative improvement loops
+- self-improving iterative loops
 - distributed reasoning across specialized agents
 
 ---
@@ -150,11 +150,11 @@ Planned updates include:
 
 ## Safety & Responsibility
 
-We are aware of the potential risks associated with autonomous and multi-agent AI systems.
+We acknowledge the potential risks associated with autonomous multi-agent AI systems.
 
 Aleph is provided strictly for research, development, and educational purposes.
 
-Users are solely responsible for how the system is deployed and utilized.
+Users are fully responsible for how the system is deployed and used.
 
 ---
 
@@ -171,12 +171,12 @@ We are open to:
 
 ## Future Vision
 
-Upon completion, Aleph will be released as a full application with:
+Upon completion, Aleph will be released as a full application including:
 
 - downloadable runtime
 - official documentation
 - deployment tooling
-- and a production-ready ecosystem
+- production-ready ecosystem
 
 ---
 
